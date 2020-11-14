@@ -7,5 +7,5 @@ For this challenge, connect to socket.cryptohack.org on port 11112. Send a JSON 
 The example script below contains the beginnings of a solution for you to modify, and you can reuse it for later challenges.
 
 Connect at nc socket.cryptohack.org 11112
-
+i HAVE ALREADY DONE THIS 
 telnetlib_example.py
