@@ -3,8 +3,8 @@ import hashlib
 import random
 
 
-# /usr/share/dict/words from
-# https://gist.githubusercontent.com/wchargin/8927565/raw/d9783627c731268fb2935a731a618aa8e95cf465/words
+   # /usr/share/dict/words from
+ #https://gist.githubusercontent.com/wchargin/8927565/raw/d9783627c731268fb2935a731a618aa8e95cf465/words
 with open("/usr/share/dict/words") as f:
     words = [w.strip() for w in f.readlines()]
 keyword = random.choice(words)
