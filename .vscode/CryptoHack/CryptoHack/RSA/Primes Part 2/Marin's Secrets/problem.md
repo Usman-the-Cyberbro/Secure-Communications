@@ -1,0 +1,1 @@
+I've found a super fast way to generate primes from my secret list.
